@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{ 
+    background-color: crimson;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+ p{
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    background-color: darkgrey;
+    font-size: 30px;
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+    background-color: cyan;
+    text-align: center;
+}
+h5{
+    font-size: 20px;
+}
+    nav{
+        font-size: 20px;
+    }
